@@ -4,6 +4,8 @@
 Status](https://travis-ci.org/thetron/mongoid-enum.png)](https://travis-ci.org/thetron/mongoid-enum)
 [![Code Climate](https://codeclimate.com/github/thetron/mongoid-enum.png)](https://codeclimate.com/github/thetron/mongoid-enum)
 
+**Add mongoid v 6.0.0 support**
+
 Heavily inspired by [DHH's
 ActiveRecord::Enum](https://github.com/rails/rails/commit/db41eb8a6ea88b854bf5cd11070ea4245e1639c5), this little library is
 there to help you cut down the cruft in your models and make the
